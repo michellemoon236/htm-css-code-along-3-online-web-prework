@@ -50,3 +50,7 @@ figcaption {
 #logo h1 { /* selects <h1> of inside the logo */
 font-family: 'Clicker Script', cursive;
 }
+
+#logo h2 { /* selects <h1> of inside the logo */
+font-family: 'Elsie Swash Caps', cursive;
+}

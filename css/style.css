@@ -54,3 +54,11 @@ font-family: 'Clicker Script', cursive;
 #logo h2 { /* selects <h1> of inside the logo */
 font-family: 'Elsie Swash Caps', cursive;
 }
+
+/*Pseudo Selector */
+
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
+
